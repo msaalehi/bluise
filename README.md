@@ -10,7 +10,7 @@ So far we've got:
 - Configurable manifest & global settings.
 - CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
 - Dynamic pages.
-- PWA ready.
+- PWA and Security Developer Milad Saalehi <a href="https://instagram.com/msaalehi"> MSK <a/>
 - SEO ready for posts & pages.
 - Signup form (using Netlify Forms).
 - Tools (Commitlint, Husky).
